@@ -1,0 +1,39 @@
+body{background:#D8004E;background-image:url(http://3.bp.blogspot.com/-IOBuEtsoVWA/UIEN-gu0NrI/AAAAAAAAF7k/vhWt4iz4usQ/s1600/background.gif);margin:0;background-position:50% 50%;background-attachment:fixed;padding:0;}
+a:link{color:#FF005F;transition:all 0.25s;}
+a:visited:hover{color:#FF005F;}
+.top-menunav ul li a:hover {color:#FF005F;}
+#header a:hover {color:#FF005F;}
+.menu-hanap {background:#fa3232;}
+.menu-hanap:hover {background:#fa3232;}
+.shareink-mainmenu > li > a.active {background:#fa3232;}
+.shareink-mainmenu > li:hover > a {background:#af0404;}
+.shareink-mainmenu li li a:hover {background:#fa3232}
+.shareink-mainmenu li:hover .parent:after{color:#fc8383;}
+#search-form input#search-button[type="submit"] {background:#fa3232}
+#search-form input#search-button[type="submit"]:hover {background:#fa3232}
+.breadcrumbs a:hover {color:#ff4d4d;}
+h3.post-title a:hover, h2.post-title a:hover, h1.post-title a:hover {color:#FF005F!important;}
+.comment_child .comment_name a:hover {color:#FF005F;}
+.comment_name:hover,.comment_name a:hover,.comment_admin .comment_name a:hover,.comment_admin .comment_name:hover{color:#FF005F;}
+.comment_date a:hover{color:#FF005F!important;}
+.comment-delete:hover{color:#FF005F!important;}
+.comment-form p:after {border-top-color:#ff1a1a;}
+.spammer-detected{background:#ff3333!important;}
+.paging-control-container a:hover{background:#ff8080}
+.PopularPosts ul li a:hover {color:#FF005F!important;}
+.PopularPosts ul li .item-title a:hover, .PopularPosts ul li a:hover {color:#FF005F;}
+ContactForm1_contact-form-submit { background-image: linear-gradient(110deg, #FF005F 0%, #FF005F 50%, transparent 50%, transparent 100%);}
+#sidebar-wrapper .Label li:hover {background:#fff;color:#FF005F;}
+#sidebar-wrapper .Label li:hover:before {color:#FF005F;}
+#sidebar-wrapper .Label li a:hover {color:#FF005F;}
+#sidebar-wrapper .label-size:hover{background:#FF005F;}
+#footer-wrapper .Label li:hover {color:#FF005F;}
+#footer-wrapper .Label li a:hover {color:#FF005F;}
+#footer-wrapper .Label li span:hover{color:#FF005F;}
+#footer-wrapper .label-size a:hover {background:#FF005F;}
+#footer-wrapper .label-size:hover, #footer-wrapper-inner .label-size:hover{background:#FF005F;}
+.FollowByEmail .follow-by-email-inner .follow-by-email-submit {background:#FF005F;}
+#BackToTop:hover {background-color:#FF005F;}
+h2.post-title:hover, h1.post-title:hover {color:#FF005F;}
+h2.post-title a:hover, h1.post-title a:hover {color:#FF005F!important;}
+.post-vinfo a:hover {background:transparent;color:#FF005F;}
