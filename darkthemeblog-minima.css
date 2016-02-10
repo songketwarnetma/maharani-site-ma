@@ -1,0 +1,65 @@
+a:link{color:#29abe2;}
+a:visited{color:#DDD;}
+a:link:hover{color:#DDD;}
+a:visited:hover{color:#29abe2;}
+pre,code{color:#AAA;}
+blockquote{color:#999;}
+.post ol li{background:#111;color:#AAA}
+body {background:#111;color:#999}
+#outer-wrapper {background:#0d0d0d;}
+#content-wrapper {background-color:#0f0f0f;}
+.shareinktop-wrapper {background:#000;}
+.top-menunav li a {color:#DDD;}
+.top-menunav li.facebook,.top-menunav li.twitter,.top-menunav li.instagram,.top-menunav li.googleplus,.top-menunav li.pinterest{color:#DDD;}
+.top-menunav li a.facebook:hover,.top-menunav li a.twitter:hover,.top-menunav li a.instagram:hover,.top-menunav li a.googleplus:hover,.top-menunav li a.pinterest:hover{color:#888;}
+.top-menunav li.facebook .fa.fa-facebook,.top-menunav li.twitter .fa.fa-twitter,.top-menunav li.instagram .fa.fa-instagram,.top-menunav li.googleplus .fa.fa-google-plus,.top-menunav li.pinterest .fa.fa-pinterest{color:#DDD;}
+.top-menunav ul li.facebook:hover .fa.fa-facebook,.top-menunav li.twitter:hover .fa.fa-twitter,.top-menunav li.instagram:hover .fa.fa-instagram,.top-menunav li.googleplus:hover .fa.fa-google-plus,.top-menunav li.pinterest:hover .fa.fa-pinterest{color:#888;}
+#header {color:#DDD;}
+#header h1, #header h2, #header p {color:#DDD;}
+#header a {color:#ddd;}
+#header .description {color:#aaa;}
+.breadcrumbs {background:#000;}
+.breadcrumbs > span:last-child {background:#0e0e0e;color:#AAA;}
+.breadcrumbs a {background:#0d0d0d;color:#AAA}
+.breadcrumbs span a {color:#AAA;}
+.breadcrumbs span:first-child  a{background:#0c0c0c;color:#AAA;}
+.post {background:#111;}
+.post-body {color:#ddd;}
+h2.post-title a, h1.post-title a, h2.post-title, h1.post-title {color:#ddd;}
+.post-vinfo {color:#000}
+.post-vinfo a {color:#aaa;}
+.author-info, .time-info, .comment-info, .label-info, .review-info {
+color:#aaa}
+.label-info .fa.fa-tag:before {color:#aaa}
+.halaman{background:#1d1d1d;}
+.halaman-kiri{color:#545;}
+.halaman-kanan{color:#565;}
+.halaman-kanan:hover .pager-title-left,.halaman-kiri:hover .pager-title-left{color:#333!important;}
+.halaman-kiri a,.halaman-kanan a{color:#777;}
+.halaman-kanan a:hover,.halaman-kiri a:hover{color:#aaa!important;}
+#comments{background:#121;}
+#comments h3{background:#122;color:#777}
+#comments .click-comment{background:#123;color:#777}
+#comments .click-comment:hover{background:#0a0b0a;color:#AAA;}
+#comments .comment_avatar {background:#090909}
+.comment_name a{color:#AAA;}
+.comment_child .comment_name a{color:#ABA;}
+.comment_admin .comment_name{background:#141}
+.comment_name{background:#143}
+.comment_date a{color:#AAA!important}
+.comment-delete{color:#AAA!important}
+.comment_body p{color:#AAA;background:#0a0a0a}
+.comment_reply{background:#0d0d0d;color:#777!important;}
+.comment_reply:hover{background:#000;color:#CCC!important}
+.status-msg-body {background:#000;}
+.status-msg-bg {background-color:#000;}
+a.profile-name-link.g-profile,a.profile-link {color:#aaa;}
+.profile-textblock {color:#aba;}
+span.post-count {color:#aaa;}
+#ArchiveList a.post-count-link, #ArchiveList a.post-count-link:link, #ArchiveList a.post-count-link:visited {color:#AAA;}
+select#BlogArchive1_ArchiveMenu {background:#111;color:#777}
+.sidebar h2, .sidebar-two h2, .sidebar h3, .sidebar-two h3 {color:#BBB;background:#060606;}
+.sidebar .widget,.sidebar-two .widget {background:#000}
+.kotak_iklan img {background:#000;}
+.kotak_iklan  img:hover {background:#090909;}
+.kotak_iklan2 .sidebar .widget-content,.kotak_iklan2 .sidebar-two .widget-content{background:#020607;}
