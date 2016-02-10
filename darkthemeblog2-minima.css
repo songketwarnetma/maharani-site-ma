@@ -1,0 +1,5 @@
+.shareinktop-wrapper {border:1px solid #262626;}
+.top-menunav li {border-right:1px solid #263626;}
+.top-menunav li.twitter {border-left:1px solid #264626;}
+.sidebar h2, .sidebar-two h2, .sidebar h3, .sidebar-two h3 {border-bottom:1px solid #262626;transition:All 0.3s;}
+.sidebar .widget,.sidebar-two .widget {border:1px solid #262626;}
